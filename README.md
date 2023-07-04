@@ -9,8 +9,7 @@ I've been learning to code for a year, alongside my business school study. I sta
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [My Portfolio](http://gregoirevaillant.github.io)
 * ✉️  You can contact me at [gregoire.vaillant@edu.em-lyon.com](mailto:gregoire.vaillant@edu.em-lyon.com)
-* 🧠  I'm learning C++ at UTDallas
-* 🤝  I'm open to collaborating on Finding an internship in web development
+* 🤝  I'm open to collaborating on Finding an apprenticeship in web development
 * ⚡  I am very motivated to evolve
 
 ### Skills
