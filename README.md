@@ -7,7 +7,7 @@ Third year student
 I've been learning to code for a year, alongside my business school study. I started with HTML and CSS during a project of enterprise creation, and then I became addicted :)
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [My Portfolio](http://gregoirevaillant.github.io)
+* 🖥️  See my portfolio at [My Portfolio](https://gregoirevaillant.github.io/portfolio/)
 * ✉️  You can contact me at [gregoire.vaillant@edu.em-lyon.com](mailto:gregoire.vaillant@edu.em-lyon.com)
 * 🤝  I'm open to collaborating on Finding an apprenticeship in web development
 * ⚡  I am very motivated to evolve
