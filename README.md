@@ -1,10 +1,8 @@
 Hi, My name is Grégoire
 ================================================================================================================================
 
-Third year student
+Fourth year student
 ------------------
-
-I've been learning to code for a year, alongside my business school study. I started with HTML and CSS during a project of enterprise creation, and then I became addicted :)
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [My Portfolio](https://gregoirevaillant.github.io/portfolio/)
