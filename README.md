@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoirevaillant&label=Profile%20views&color=0e75b6&style=flat" alt="gregoirevaillant" /> </p>
 
-- 🔭 I’m currently working on **a foodtruck order system & dashboard**
-
 - 👨‍💻 All of my projects are available at [https://gregoirevaillant.github.io/portfolio/](https://gregoirevaillant.github.io/portfolio/)
 
 - 📫 How to reach me **vaillant.g@outlook.com**
