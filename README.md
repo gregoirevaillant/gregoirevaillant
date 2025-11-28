@@ -1,12 +1,9 @@
-<h1 align="center">Hey there, I'm Grégoire</h1>
+**Hey there!**, 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoirevaillant&label=Profile%20views&color=0e75b6&style=flat" alt="gregoirevaillant" /> </p>
+I'm Grégoire, a full stack web developer based in Paris
 
-- 👨‍💻 All of my projects are available at [https://gregoirevaillant.github.io/portfolio/](https://gregoirevaillant.github.io/portfolio/)
+My main tech stack is MERN stack with TypeScript, but I do like to play arround and create project arround other technologies.
 
-- 📫 How to reach me **vaillant.g@outlook.com**
+I've built many project in order to learn you'll find my favorites and latest one here on my [portfolio](https://portfolio.gregoirevaillant.fr)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gregoirevaillant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoirevaillant" height="30" width="40" /></a>
-</p>
+You can reach me by **[email](mailto:vaillant.g@outlook.com)**
