@@ -7,3 +7,8 @@ My main tech stack is MERN stack with TypeScript, but I do like to play arround 
 I've built many project in order to learn you'll find my favorites and latest one here on my [portfolio](https://portfolio.gregoirevaillant.fr)
 
 You can reach me by **[email](mailto:vaillant.g@outlook.com)**
+
+**Fun Facts:**
+- Demon Slayer is my favorite anime
+- Inception is my favorite movie
+- Peaky blinders is my favorite movie
