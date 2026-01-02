@@ -11,4 +11,4 @@ You can reach me by **[email](mailto:vaillant.g@outlook.com)**
 **Fun Facts:**
 - Demon Slayer is my favorite anime
 - Inception is my favorite movie
-- Peaky blinders is my favorite movie
+- Peaky blinders is my favorite show
